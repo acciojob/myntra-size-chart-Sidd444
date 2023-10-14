@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+th,td{
+	border:1px solid black;
+	length:300px;
+}
+table{
+	border-collapse:collapse;
+}
+thead{
+	background-color:lightcoral;
+}
+#first{
+	background-color:lightsalmon;
+}
+#second{
+	background-color:lightcyan;
+}
+#third{
+	background-color:lightblue;
+}
